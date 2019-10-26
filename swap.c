@@ -1,3 +1,4 @@
+//swapping of two variables without a temporary variable in c language.
 #include<stdio.h>
 void main()
 {
